@@ -2,5 +2,8 @@
 <br><b>Linux Commands</b><br><br>
 </h1>
 
--Copy directory<br>
+- Create directory<br>
+`mkdir <dirname>`
+
+- Copy directory<br>
 `$ cp -R <source_folder> <destination_folder>`
