@@ -1,14 +1,14 @@
 # Django Setup
 
-**Install**
+**Install** <br>
 `python -m pip install Django`
 
-**Check version**
+**Check version** <br>
 `python -m django --version`
 
-**Start project**
+**Start project** <br>
 `django-admin startproject mysite .`
 
-**Run server**
+**Run server** <br>
 `python manage.py runserver`
 
