@@ -16,7 +16,8 @@
  - Open Folder: `/home/{user}/`
 
 ## Configure SSH
-- [Add a New SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=linux)
+- [Create a new SHH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Add a new SSH Key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=linux)
 
 ## Create virtual env
 - Install pip<br>
