@@ -26,3 +26,13 @@
 `sudo pip3 install virtualenv`
 - Create virtualenv<br>
 `virtualenv .venv`
+- Activate : `source .venv/bin/activate`
+- Deactivate: deactivate
+
+## Upgrade Python
+`python3 -m pip install pip setuptools wheel --upgrade`
+
+## Create setup files
+`touch .gitignore readme.md config.py main.py`
+
+
