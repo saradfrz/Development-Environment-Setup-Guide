@@ -12,5 +12,5 @@
 **Run server** <br>
 `python manage.py runserver`
 
-**Create App**
+**Create App**<br>
 `python manage.py startapp myApp`
